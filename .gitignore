@@ -1,0 +1,13 @@
+/.idea
+.AppleDouble
+.sass-cache
+:2eDS_Store
+:2esvn
+.AppleDouble/
+=/
+.realsync
+.DS_Store
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+.vagrant
